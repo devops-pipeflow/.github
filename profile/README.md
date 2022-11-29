@@ -20,7 +20,7 @@ Hey! We're glad you're thinking about contributing to [pipeflow](https://github.
 
 ## 🖥 Demos 
 
-Do you want to see [pipeflow](https://github.com/devops-pipeflow) in action? Check the list of our demos [in the dedicated repository](https://github.com/devops-pipeflow/demo). 
+Do you want to see [pipeflow](https://github.com/devops-pipeflow) in action? Check the list of our demos [in the dedicated repository](https://github.com/devops-pipeflow/deploy). 
 
 
 
